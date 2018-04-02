@@ -1,0 +1,25 @@
+
+
+body
+{
+    padding-top: 50px;
+}
+
+.col-cadastrar-noticia
+{
+    height: 700px;
+}
+
+.row-noticias-cadastradas
+{
+    height: 350px;
+    overflow-y: scroll;
+}
+
+.titulo-divs
+{
+    text-align: center;
+    font-weight: bold;
+    color: #4a4a4a;
+}
+

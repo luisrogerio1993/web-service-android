@@ -1,0 +1,41 @@
+
+
+body
+{
+    padding-top: 50px;
+}
+
+.col-cadastrar-noticia, .row-noticias-cadastradas {
+    border-radius: 10px;
+}
+
+.col-cadastrar-noticia
+{
+    height: 700px;
+    border-right: #222 4px solid;
+    
+}
+
+.row-noticias-cadastradas
+{
+    height: 350px;
+    overflow-y: scroll;
+    border-bottom: #222 4px solid;
+}
+
+.titulo-divs
+{
+    text-align: center;
+    font-weight: bold;
+    color: #4a4a4a;
+}
+
+.table-listagem > tbody > tr > td,
+.table-listagem > tbody > tr > th,
+.table-listagem > thead > tr > th
+{
+    display: table-cell;
+    vertical-align:middle;
+    position: static;
+    text-align: center;
+}
