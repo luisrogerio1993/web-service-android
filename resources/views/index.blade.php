@@ -35,7 +35,7 @@
                             <a href="https://fb.com/luisrogerio1993" target="_blank">Desenvolvedor: Luís Araújo</a>
                         </li>
                         <li class="active">
-                            <a href="#">Repositório GitHub</a>
+                            <a href="https://github.com/luisrogerio1993/web-service-android/commits/master" target="_blank">Repositório GitHub</a>
                         </li>
                         <li class="active">
                             <a href="https://fb.com/luisrogerio1993" target="_blank">Contato</a>
